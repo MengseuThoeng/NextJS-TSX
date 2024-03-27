@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: {
       template: "%s - Seu Shopping",
-      default: "MyShop",
+      default: "Seu Shopping",
     },
     description: "Ey Kor Louk Del Oy Tae mean luy",
     images: [
