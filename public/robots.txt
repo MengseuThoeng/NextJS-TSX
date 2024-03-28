@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://seu-shopping-mengseuthoengs-projects.vercel.app/sitemap.xml
